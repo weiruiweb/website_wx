@@ -1,0 +1,24 @@
+<!--index3.wxml-->
+<view class="banner">
+    <image src="/images/banner.png"></image>
+</view>
+<view class="w710">
+    <view class="font32 color3 flexRowBetween  product_top">
+        <view class="product_name ">空间+导示</view>
+        <image src="/images/share.jpg"></image>
+    </view>
+    <view class="font26 color6 flexRowBetween  product_top">
+        <view class="product_name flex">
+            <view>空间</view>
+            <view>导示</view>
+        </view>
+        <view class="font24 color9">2018-09-09</view>
+    </view>
+    <view class="font28 color9 conts">导示系统是现代平面设计中一个重要的体系，包括图形、文字标志等因素，近年来受到了人们广泛的关注。导示系统设计不同于其它要求所表达的内容必须简洁、准确、直观、雅致表达形式也需规范统一，除了必须要考虑各个地区的地域性以及人文性因素外，主要着重考虑彼此共性的东西，比如人的行为习惯、对某个符号或图形本能性的认识、对颜色情绪共同的反应等等。
+      在设计过程中恰当的使用图形、文字、符号、色彩等要素便可以传达最直接的意思。就能帮助城市建立一个由内到外和谐统一的共性的、无国界的、可持续发展的形象，在全球一体化的今天，共同提高城市的效率与品位。这就是本论文研究的主要意义所在</view>
+      <view class="banner index_img">
+        <image src="/images/banner.png"></image>
+      </view>
+        <view class="font28 color9 conts">导示系统是现代平面设计中一个重要的体系，包括图形、文字标志等因素，近年来受到了人们广泛的关注。导示系统设计不同于其它要求共同提高城市的效率与品位。这就是本论文研究的主要意义所在</view>
+</view>
+<view style="height:180rpx;width:100%;"></view>

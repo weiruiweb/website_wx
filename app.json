@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index_cultrue/index_cultrue",
+    "pages/index_introduce/index_introduce",
+    "pages/index_case/index_case",
+    "pages/index_detail/index_detail",
+    "pages/index1/index1",
+    "pages/index2/index2",
+    "pages/index3/index3"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#21c3d4",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "#fff"
+  }
+}

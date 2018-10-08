@@ -1,0 +1,49 @@
+<!--index3.wxml-->
+<view class="banner">
+    <image src="/images/banner.png"></image>
+</view>
+<view class="w710">
+	<view class="introduct">
+		<view class="w710">
+			<view class="contact_title font32 color" style="height:50rpx;line-height: 50rpx;">
+		        案例
+		        <text class="font22 color9" style="height:50rpx;line-height: 50rpx;">contact us</text>
+		    </view>
+		    <view class="font24 color6 introduct_cont">网站策划，2007年，注册资金80万，员工50名，专业的设计策划团队，一家大学生创业公司；专业的设计策划团队，一家创业公司；发展状况：主要面向中小企业，已经为上百家企业提供了网站策划服务。</view>
+		</view>
+	</view>
+</view>
+<view class="w710">
+   	<view class="product flexRowBetween w710">
+    <view class="product_box flexRowBetween">
+        <view class="product_left">
+            <image src="/images/index5.jpg"></image>
+        </view>
+        <view class="product_right flexRowBetween">
+            <view class="product_detail">
+                <view class="font32 color3 product_top">空间+导示</view>
+                <view class="font28 color6 flexRowBetween  product_top">
+                    <view class="product_name">空间+导示</view>
+                    <view class="font24 color9">2018-09-09</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+<view class="product flexRowBetween w710">
+    <view class="product_box flexRowBetween">
+        <view class="product_left">
+            <image src="/images/index5.jpg"></image>
+        </view>
+        <view class="product_right flexRowBetween">
+            <view class="product_detail">
+                <view class="font32 color3 product_top">空间+导示</view>
+                <view class="font28 color6 flexRowBetween  product_top">
+                    <view class="product_name">空间+导示</view>
+                    <view class="font24 color9">2018-09-09</view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
+</view>

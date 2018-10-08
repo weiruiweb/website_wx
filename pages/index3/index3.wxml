@@ -1,0 +1,67 @@
+<!--index3.wxml-->
+<view class="banner">
+    <image src="/images/banner.png"></image>
+</view>
+<view class="w710">
+    <view class="contact_title font32 color">联系我们<text class="font22 color9">contact us</text></view>
+</view>
+<view class="w710">
+    <view class="contact_list flex font30 color6">
+        <view class="input_before ">联系地址:</view>
+        <input  placeholder="请输入联系地址"></input>
+        <view class="input_icon"><image src="/images/user_icon1.png"></image></view>
+    </view>
+    <view class="contact_list flex font30 color6">
+        <view class="input_before ">联系电话:</view>
+        <input  placeholder="请输入联系电话"></input>
+        <view class="input_icon"><image src="/images/user_icon2.png"></image></view>
+    </view>
+    <view class="contact_list flex font30 color6">
+        <view class="input_before ">联系QQ:</view>
+        <input  placeholder="请输入联系QQ"></input>
+        <view class="input_icon"><image src="/images/user_icon3.png"></image></view>
+    </view>
+    <view class="contact_list flex font30 color6">
+        <view class="input_before ">联系邮箱:</view>
+        <input  placeholder="请输入联系邮箱"></input>
+        <view class="input_icon"><image src="/images/user_icon4.png"></image></view>
+    </view>
+</view>
+<view class="w710">
+    <view class="contact_title font32 color">留言<text class="font22 color9">Message</text></view>
+    <view class="textarea">
+        <textarea placeholder="请留言" class="color6 font28"></textarea>
+    </view>
+    <view class="contact_list flex font30 color6" style="height:80rpx;margin:10rpx 0;border:none">
+        <view class="input_before" style="width:22%;">联系电话:</view>
+        <input style="width:76%;padding-left:2%;height:80rpx;line-height: 100rpx;" class="bg" placeholder="请输入您的联系电话"></input>
+    </view>
+</view>
+<view class="submit_info bg1">提交</view>
+<view style="height:120rpx;width:100%;"></view>
+<view class="navbar">
+    <view class="navbar_item"   bindtap="intoPathRedirect" data-path="/pages/index/index">
+        <view class="nav_img">
+          <image src="/images/navbar1.png"></image>
+        </view>
+        <view class="text">首页</view>
+    </view>
+    <view class="navbar_item"   bindtap="intoPathRedirect" data-path="/pages/index1/index1">
+        <view class="nav_img">
+           <image src="/images/navbar2.png"></image>
+        </view>
+        <view class="text">公司业务</view>
+    </view>
+    <view class="navbar_item"   bindtap="intoPathRedirect" data-path="/pages/index2/index2">
+        <view class="nav_img">
+           <image src="/images/navbar3.png"></image>
+        </view>
+        <view class="text">公司动态</view>
+    </view>
+    <view class="navbar_item"   bindtap="intoPathRedirect" data-path="/pages/index3/index3">
+        <view class="nav_img">
+            <image src="/images/navbar4-a.png"></image>
+        </view>
+        <view class="text this-text">联系我们</view>
+    </view>
+</view>

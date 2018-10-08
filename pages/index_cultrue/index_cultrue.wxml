@@ -1,0 +1,13 @@
+<!--index3.wxml-->
+<view class="banner">
+    <image src="/images/banner.png"></image>
+</view>
+<view class="w710">
+    <view class="contact_title font32 color">
+        公司理念
+        <text class="font22 color9">contact us</text>
+    </view>
+    <view class="font28 color9 cultrue">公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念</view>
+    <view class="font28 color9 cultrue">公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念</view>
+    <view class="font28 color9 cultrue">公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念公司理念</view>
+</view>
